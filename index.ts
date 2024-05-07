@@ -1,4 +1,4 @@
-#! user/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.cyanBright.bold(" Welcome To My Currency Convertor App"));

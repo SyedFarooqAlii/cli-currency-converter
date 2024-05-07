@@ -1,6 +1,6 @@
 {
   "name": "far0817-cli-currency-converter",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "This is CLI Based Currency Converter",
   "main": "index.js",
   "type": "module",
